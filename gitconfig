@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = antonwenemoser@gmail.com
+	email = @users.noreply.github.com
 	name = Anton Wenemoser
